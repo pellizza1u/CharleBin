@@ -13,7 +13,6 @@
 namespace PrivateBin;
 
 use Exception;
-
 /**
  * Filter
  *
